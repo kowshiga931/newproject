@@ -1,4 +1,4 @@
-# AdaptiveLearn Dashboard
+# Forge Dashboard
 
 A modern, responsive React dashboard for an Adaptive Learning & Job Portal platform built with React, Vite, and Tailwind CSS.
 
