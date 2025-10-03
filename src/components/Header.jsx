@@ -10,10 +10,10 @@ export default function Header({ darkMode, toggleDarkMode }) {
         <div className="flex items-center gap-4 flex-1">
           <div className="flex items-center gap-2">
             <div className="w-10 h-10 bg-gradient-to-br from-blue-600 to-purple-700 rounded-xl flex items-center justify-center text-white font-bold text-lg">
-              AL
+              FG
             </div>
             <span className="text-xl font-bold text-gray-900 dark:text-white hidden sm:block">
-              AdaptiveLearn
+             Forge
             </span>
           </div>
 
